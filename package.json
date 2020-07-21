@@ -1,0 +1,22 @@
+{
+  "name": "some-try",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "jest --color"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QiShaoXuan/some-try.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QiShaoXuan/some-try/issues"
+  },
+  "homepage": "https://github.com/QiShaoXuan/some-try#readme",
+  "dependencies": {
+    "jest": "^26.1.0"
+  }
+}
